@@ -1,0 +1,28 @@
+.main-container {
+  height: 500px;
+  background-image: url("../../../pics/adi-constantin-65004.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #413c58;
+}
+
+.header-main-text {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+  color: white;
+  font-size: 50px;
+  font-style: italic;
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.header-info-text {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+  color: white;
+  font-size: 25px;
+  font-style: italic;
+  font-family: "Lato", sans-serif;
+}

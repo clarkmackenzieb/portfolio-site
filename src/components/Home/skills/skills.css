@@ -1,0 +1,36 @@
+.main-skills-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-color: #eeeeee;
+  height: auto;
+}
+
+.skills-header {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.skills-indiv-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  width: 60%;
+  margin: 0 auto;
+}
+
+.indiv-skill {
+  height: 75px;
+  width: 150px;
+  background: #48839a;
+  margin: 10px 10px;
+  border-radius: 10px;
+  text-align: center;
+  padding-top: 20px;
+  color: black;
+  font-family: "Lato", sans-serif;
+  font-size: 20px;
+}
